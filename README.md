@@ -1,3 +1,6 @@
+**__Wsg__**
+---
+```
 while (true) {
 	String name = "Crllect";
 	int age = 14;
@@ -22,3 +25,5 @@ while (true) {
 	String education = "selfTaught";
 	boolean iUseArchBTW = false;
 }
+```
+---
