@@ -1,5 +1,4 @@
-**__Wsg__**
-<img src="https://komarev.com/ghpvc/?username=Crllection&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
+# **__Wsg__**  <img src="https://komarev.com/ghpvc/?username=Crllection&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
 ---
 ```java
 while (true) {
