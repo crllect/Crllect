@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**Crllection/Crllection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+while (true) {
+	String name = "Crllect";
+	int age = 14;
+	String[] operatingSystem = {"Windows 10", "Kali Linux"};
+	String[] webBrowsers = {"Firefox", "Tor"};
+	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
+	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity"};
+	// learning: HTML, CSS, TypeScript, C++
+	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown"};
+	String[] cyberSecUtils = {"burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "wireshark", "metasploit-framework", "recon-ng", "hydra", "sqlMap", "aircrack-ng", "traceroute", "john", "hashcat"}; //kali-linux suite && extra installed tools
+	String[] codeEditors = {"eclipse", "VSCodium", "pyCharm"};
+	Object[][] emailAddresses = {
+		{"crllect@proton.me"},
+		{"crllection@gmail.com"},
+		{"itsniceaccout@gmail.com"},
+		{"4oexf238p@mozmail.com"}
+	};
+	String discorUsr = "crllect";
+	String spotifyUsr = "Cruentus";
+	String minecraftJava = "inderdragon";
+	String steamUsr = "inderdragon";
+	String education = "selfTaught";
+	boolean iUseArchBTW = false;
+}
