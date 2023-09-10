@@ -1,4 +1,4 @@
-# **__Wsg__**  <img src="https://komarev.com/ghpvc/?username=Crllection&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
+# **__Wsg__**  <img src="https://komarev.com/ghpvc/?username=crllect&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
 ---
 ```java
 while (true) {
@@ -27,3 +27,4 @@ while (true) {
 }
 ```
 ---
+![Crllect](https://readme-typing-svg.herokuapp.com/?vCenter=true&lines=Hello!;I+am+Crllect!;I+enjoy+exploits;Kali+Linux;Add+me+on+discord;crllect;crllect;crllect;crllect;Why+are+you+still+here?;Go+do+it)
