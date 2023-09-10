@@ -8,7 +8,7 @@ while (true) {
 	String[] webBrowsers = {"Firefox", "Tor"};
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
 	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity"};
-	// learning: HTML, CSS, TypeScript, C++
+	// learning: HTML, CSS, JavaScript, TypeScript, C++
 	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown"};
 	String[] cyberSecUtils = {"burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "wireshark", "metasploit-framework", "recon-ng", "hydra", "sqlMap", "aircrack-ng", "traceroute", "john", "hashcat"}; //kali-linux suite && extra installed tools
 	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm"};
@@ -27,4 +27,4 @@ while (true) {
 }
 ```
 ---
-![Crllect](https://readme-typing-svg.herokuapp.com/?vCenter=true&lines=Hello!;I+am+Crllect!;I+enjoy+exploits;Kali+Linux;Add+me+on+discord;crllect;crllect;crllect;crllect;Why+are+you+still+here?;Go+do+it)
+![Crllect](http://readme-typing-svg.herokuapp.com/?font=Work+Sans&weight=500&duration=2000&pause=1000&color=8ed9f5&background=00000000&center=true&vCenter=true&width=435&lines=Hello!;I+am+Crllect;Add+me+on+discord:;@Crllect;I+am+a+kali+enjoyer;And+I+dont+use+arch+btw;)
