@@ -11,7 +11,7 @@ while (true) {
 	// learning: C++
 	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript"};
 	String[] cyberSecUtils = {"burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "wireshark", "metasploit-framework", "recon-ng", "hydra", "sqlMap", "aircrack-ng", "traceroute", "john", "hashcat"}; //kali-linux suite && extra installed tools
-	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm"};
+	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ"};
 	Object[][] emailAddresses = {
 		{"crllect@proton.me"},
 		{"crllection@gmail.com"},
