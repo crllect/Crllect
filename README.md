@@ -37,8 +37,8 @@ while (true) {
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="left" src="https://github-readme-stats.vercel.app/api?username=crllect&title_color=e70052&text_color=e70052&icon_color=e70052&border_color=e70052&bg_color=130,141415,060607&border_radius=5)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height=240 align="left" src="https://github-readme-stats.vercel.app/api?username=crllect&title_color=e70052&text_color=e70052&icon_color=e70052&border_color=e70052&bg_color=130,141415,060607&border_radius=5)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crllect&title_color=e70052&text_color=e70052&icon_color=e70052&border_color=e70052&bg_color=130,141415,060607&border_radius=5)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height=240 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crllect&title_color=e70052&text_color=e70052&icon_color=e70052&border_color=e70052&bg_color=130,141415,060607&border_radius=5)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
