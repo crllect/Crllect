@@ -4,12 +4,16 @@
 while (true) {
 	String name = "Crllect";
 	int age = 14;
-	String[] operatingSystem = {"Windows 10", "Kali Linux", };
+	System.out.println("Hey, im crllect, and if I spent the same amount of time debugging as i did procrastinating,");
+	System.out.println("i might have actually finished a project. I also like cybersecurity and 3D art.");
+	System.out.println("Anyways, I am mostly a new developer, and am trying to improve anyway I can.");
+	System.out.println("I am working on getting my securty+ and comptia A+ certificates as of writing this");
+	String[] operatingSystem = {"Windows 10", "Kali Linux", "nixos"};
 	String[] webBrowsers = {"Firefox", "Tor"};
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
-	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity"};
-	// learning: C++
-	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript"};
+	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity", "3Dart", "FOSS"};
+	// learning: C++ && Rust
+	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript", "bash"}; // Though I know bash, and can write some simple scripts. Im no bash wizard
 	String[] cyberSecUtils = {"goBuster", "burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "autopsy", "wireshark", "metasploit", "ng-tools", "hydra", "sqlMap", "traceroute", "john", "hashcat"}; // kali-linux suite && extra installed tools
 	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ"};
 	Object[][] emailAddresses = {
@@ -18,9 +22,9 @@ while (true) {
 		{"itsniceaccout@gmail.com"},
 		{"4oexf238p@mozmail.com"}
 	};
-	String discorUsr = "crllect";
+	String discorUsr = "@crllect";
 	String education = "selfTaught";
-	boolean iUseArchBTW = false;
+	boolean iUseArchBTW = true; // as of last week, i am now a hyprland arch normie
 }
 ```
 ---
