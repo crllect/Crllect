@@ -10,7 +10,7 @@ while (true) {
 	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity"};
 	// learning: C++
 	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript"};
-	String[] cyberSecUtils = {"burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "wireshark", "metasploit", "ng-tools", "hydra", "sqlMap", "traceroute", "john", "hashcat"}; // kali-linux suite && extra installed tools
+	String[] cyberSecUtils = {"goBuster", "burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "autopsy", "wireshark", "metasploit", "ng-tools", "hydra", "sqlMap", "traceroute", "john", "hashcat"}; // kali-linux suite && extra installed tools
 	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ"};
 	Object[][] emailAddresses = {
 		{"crllect@proton.me"},
@@ -19,9 +19,6 @@ while (true) {
 		{"4oexf238p@mozmail.com"}
 	};
 	String discorUsr = "crllect";
-	String spotifyUsr = "Cruentus";
-	String minecraftJava = "inderdragon";
-	String steamUsr = "inderdragon";
 	String education = "selfTaught";
 	boolean iUseArchBTW = false;
 }
