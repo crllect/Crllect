@@ -5,12 +5,12 @@ while (true) {
 	String name = "Crllect";
 	int age = 14;
 	System.out.println("Hey, im crllect, and if I spent the same amount of time debugging as i did procrastinating,");
-	System.out.println("id be good at something. But i cant have my cake and eat it too.");
+	System.out.println("id be good at something. But i can\'t have my cake and eat it too.");
 	System.out.println("Anyways, I am mostly a new developer, and am trying to improve anyway I can.");
 	System.out.println("I am working on getting my securty+ and network+ certificates as of writing this");
 	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch"};
 	String[] webBrowsers = {"firefox", "tor", "paleMoon"};
-	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway"}
+	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway"}  // sway is technically a window manager, but who's counting?
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
 	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity", "3Dart", "FOSS"};
 	// learning: C++ && Rust && node.js
