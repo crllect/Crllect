@@ -8,7 +8,7 @@ while (true) {
 	System.out.println("id be good at something. But i can\'t have my cake and eat it too.");
 	System.out.println("Anyways, I am mostly a new developer, and am trying to improve anyway I can.");
 	System.out.println("I am working on getting my securty+ and network+ certificates as of writing this");
-	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch"};
+	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch", "endeavourOS", "blackArch"};
 	String[] webBrowsers = {"firefox", "tor", "paleMoon"};
 	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway"}  // sway is technically a window manager, idrk
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
