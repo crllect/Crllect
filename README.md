@@ -52,4 +52,4 @@ Tangent aside, here are my stats:
 ---
 ---
 
-<img height=460 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=dark"
+<img height=460 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=dark" />
