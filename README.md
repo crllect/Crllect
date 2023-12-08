@@ -9,8 +9,8 @@ while (true) {
 	System.out.println("Anyways, I am mostly a new developer, and am trying to improve anyway I can.");
 	System.out.println("I am working on getting my securty+ and network+ certificates as of writing");
 	System.out.println("this, which is pretty expensive, so I'm saving up to pay for that. Also please");
-	System.out.println("suggest some projects for me to work on via email or my discord. Follow my");
-	System.out.println("github if you like any of my projects");
+	System.out.println("suggest some projects for me to work on via email or my discord. Also,");
+	System.out.println("follow my github if you like any of my projects ;3");
 	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch", "endeavourOS", "blackArch"};
 	String[] webBrowsers = {"firefox", "tor", "paleMoon"};
 	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway", "awesome"}  // sway && awesome are both technically window managers, but idrk
@@ -19,7 +19,7 @@ while (true) {
 	// learning: C++ && Rust && node.js
 	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript", "bash"}; // Though I know bash, and can write some simple scripts. Im no bash wizard
 	String[] cyberSecUtils = {"goBuster", "burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "autopsy", "wireshark", "metasploit", "ng-tools", "hydra", "sqlMap", "traceroute", "john", "hashcat"}; // kali-linux suite, black-arch suite && extra installed tools
-	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ"}; // intelliJ under student teir. So I wont have in a couple of years :/
+	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ"}; // intelliJ under student teir. So I wont have in a couple of years :c
 	Object[][] emailAddresses = {
 		{"crllect@proton.me"},
 		{"crllect@tuta.io"},
