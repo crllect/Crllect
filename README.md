@@ -7,20 +7,22 @@ while (true) {
 	System.out.println("Hey, im crllect, and if I spent the same amount of time debugging as i did procrastinating,");
 	System.out.println("id be good at something. But i can\'t have my cake and eat it too.");
 	System.out.println("Anyways, I am mostly a new developer, and am trying to improve anyway I can.");
-	System.out.println("I am working on getting my securty+ and network+ certificates as of writing this");
+	System.out.println("I am working on getting my securty+ and network+ certificates as of writing");
+	System.out.println("this, which is pretty expensive, so I'm saving up to pay for that. Also please");
+	System.out.println("suggest some projects for me to work on via email or my discord. Follow my");
+	System.out.println("github if you like any of my projects");
 	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch", "endeavourOS", "blackArch"};
 	String[] webBrowsers = {"firefox", "tor", "paleMoon"};
-	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway"}  // sway is technically a window manager, idrk
+	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway", "awesome"}  // sway && awesome are both technically window managers, but idrk
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
 	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity", "3Dart", "FOSS"};
 	// learning: C++ && Rust && node.js
 	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript", "bash"}; // Though I know bash, and can write some simple scripts. Im no bash wizard
 	String[] cyberSecUtils = {"goBuster", "burpsuite", "nmap", "amass", "ciscoTools", "wpscan", "autopsy", "wireshark", "metasploit", "ng-tools", "hydra", "sqlMap", "traceroute", "john", "hashcat"}; // kali-linux suite, black-arch suite && extra installed tools
-	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ"};
+	String[] codeEditors = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ"}; // intelliJ under student teir. So I wont have in a couple of years :/
 	Object[][] emailAddresses = {
 		{"crllect@proton.me"},
-		{"crllection@gmail.com"},
-		{"itsniceaccout@gmail.com"},
+		{"crllect@tuta.io"},
 		{"4oexf238p@mozmail.com"}
 	};
 	String discorUsr = "@crllect";
