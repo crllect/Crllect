@@ -1,5 +1,6 @@
 # **__Wsg__**  <img src="https://komarev.com/ghpvc/?username=crllect&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
 ---
+<!-- used colors: 24410c, e70052, 25252a, 141414, ce244c -->
 ```java
 while (true) {
 	String name = "Crllect";
@@ -31,7 +32,7 @@ while (true) {
 }
 ```
 ---
-![Crllect](http://readme-typing-svg.herokuapp.com/?font=Work+Sans&weight=600&duration=2000&pause=1000&color=8ed9f5&background=00000000&center=true&vCenter=true&width=435&lines=Hello!;I+am+Crllect;Add+me+on+discord:;@crllect;I+am+a+kali+enjoyer;And+I+use+arch+btw;)
+![Crllect](http://readme-typing-svg.herokuapp.com/?font=Work+Sans&weight=600&duration=2000&pause=1000&color=e70052&background=00000000&center=true&vCenter=true&width=435&lines=Hello!;I+am+Crllect;Add+me+on+discord:;@crllect;I+am+a+kali+enjoyer;And+I+use+arch+btw;)
 ## I am currently working on [Zorro](https://crllect.github.io/zorro). A front-end-only unblocked game site. I know, very original. If anybody wants to help add games or improve upon it, add me on discord [@crllect](https://discord.com/users/713488984596021291).
 ## I am also working on [Xorro](https://github.com/crllect/xorro), which if you couldn't tell, is a placeholder name cus I couldn't think of anything.
 ---
