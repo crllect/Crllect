@@ -2,7 +2,7 @@
 ---
 <!-- used colors: 24410c, e70052, 25252a, 141414, ce244c -->
 ```java
-while (true) {
+while (isAlive) {
 	String name = "Crllect";
 	int age = 14;
 	System.out.println("Hey, im crllect, and if I spent the same amount of time debugging as i did procrastinating,");
