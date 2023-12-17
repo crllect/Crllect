@@ -34,6 +34,13 @@ while (isAlive) {
 ```
 ---
 ![Crllect](http://readme-typing-svg.herokuapp.com/?font=Work+Sans&weight=600&duration=2000&pause=1000&color=e70052&background=00000000&center=true&vCenter=true&width=435&lines=Hello!;I+am+Crllect;Add+me+on+discord:;@crllect;I+am+a+kali+enjoyer;And+I+use+arch+btw;)
+
+---
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&cover_image=true&theme=novatorem&show_offline=false&background_color=25252a&interchange=false&bar_color=e70052&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&redirect=true)
+
+---
+
 ## I am currently working on [Zorro](https://crllect.github.io/zorro). A front-end-only unblocked game site. I know, very original. If anybody wants to help add games or improve upon it, add me on discord [@crllect](https://discord.com/users/713488984596021291).
 ## I am also working on [Xorro](https://github.com/crllect/xorro), which if you couldn't tell, is a placeholder name cus I couldn't think of anything.
 ---
