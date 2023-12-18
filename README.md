@@ -68,5 +68,5 @@ while (isAlive) {
 ---
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&redirect=true">
-  <img height=260 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&cover_image=true&theme=novatorem&show_offline=false&background_color=25252a&interchange=false&bar_color=e70052&bar_color_cover=false" />
+  <img height=260 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&cover_image=true&theme=novatorem&show_offline=true&background_color=25252a&interchange=false&bar_color=e70052&bar_color_cover=false" />
 </a>
