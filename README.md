@@ -37,8 +37,7 @@ while (isAlive) {
 
 ---
 
-## I am currently working on [Zorro](https://crllect.github.io/zorro). A front-end-only unblocked game site. I know, very original. If anybody wants to help add games or improve upon it, add me on discord [@crllect](https://discord.com/users/713488984596021291).
-## I am also working on [Xorro](https://github.com/crllect/xorro), which if you couldn't tell, is a placeholder name cus I couldn't think of anything.
+## I am currently working on [Crypher](https://github.com/crllect/Crypher). A front-end-only unblocked game site. I know, very original. If anybody wants to help add games or improve upon it, add me on discord [@crllect](https://discord.com/users/713488984596021291).
 ---
 # Tangent aside, here are my stats:
 
