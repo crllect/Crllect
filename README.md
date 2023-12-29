@@ -37,7 +37,7 @@ while (isAlive) {
 
 ---
 
-## I am currently working on [Crypher](https://github.com/crllect/Crypher). A front-end-only unblocked game site. I know, very original. If anybody wants to help add games or improve upon it, add me on discord [@crllect](https://discord.com/users/713488984596021291).
+## I am currently working on [Crypher](https://github.com/crllect/Crypher). A an unblocked game and proxy site. I know, very original. If anybody wants to help add games or improve upon my spaghetti, add me on discord [@crllect](https://discord.com/users/713488984596021291).
 ---
 # Tangent aside, here are my stats:
 
