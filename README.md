@@ -12,16 +12,19 @@ while (isAlive) {
 	System.out.println("this, which is pretty expensive, so I'm saving up to pay for that. Also please");
 	System.out.println("suggest some projects for me to work on via email or my discord. Also,");
 	System.out.println("follow my github if you like any of my projects ;3");
+
 	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch", "endeavourOS", "blackArch"};
-	String[] webBrowsers = {"firefox", "tor", "paleMoon"};
+	String[] webBrowsers = {"firefox", "tor", "paleMoon", "brave"};
 	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway", "awesome"}  // sway && awesome are both technically window managers, but idrk
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
 	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity", "3Dart", "FOSS"};
+
 	// learning (priority): React && next && vite;
 	// learning (low priority): C++ && Rust && node.js;
 	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript", "bash"}; // Though I know bash and js, and can write some simple scripts. Im no bash nor js wizard. lowk tryna improve on that
 	String[] cyberSecUtils = {"kali-suite", "blackArch-suite", "parrot-suite", "metasploit-framework"}; // even though the metasploit framework is of a different catagory. its so ridiculously big, that i think it warrents a spot.
 	String[] integratedDevelopementEnvironments = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ"}; // intelliJ under student teir. So I wont have in a couple of years :c
+
 	Object[][] emailAddresses = {
 		{"crllect@proton.me"},
 		{"crllect@tuta.io"},
