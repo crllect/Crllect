@@ -17,7 +17,7 @@ while (isAlive) {
 	String[] webBrowsers = {"firefox", "tor", "paleMoon", "brave"};
 	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway", "awesome"}  // sway && awesome are both technically window managers, but idrk
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
-	String[] intrests = {"programming", "exploiting", "music", "cyberSecurity", "3Dart", "FOSS"};
+	String[] interests = {"programming", "exploiting", "music", "cyberSecurity", "3Dart", "FOSS"};
 
 	// learning (priority): React && next && vite;
 	// learning (low priority): C++ && Rust && node.js;
