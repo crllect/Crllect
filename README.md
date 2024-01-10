@@ -23,16 +23,16 @@ while (isAlive) {
 	// learning (low priority): C++ && Rust && node.js;
 	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript", "bash"}; // Though I know bash and js, and can write some simple scripts. Im no bash nor js wizard. lowk tryna improve on that
 	String[] cyberSecUtils = {"kali-suite", "blackArch-suite", "parrot-suite", "metasploit-framework"}; // even though the metasploit framework is of a different catagory. its so ridiculously big, that i think it warrents a spot.
-	String[] integratedDevelopementEnvironments = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ", "VSCode"}; // intelliJ under student teir. So I wont have in a couple of years :c
+	String[] integratedDevelopementEnvironments = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ", "VSCode", "zed"}; // intelliJ under student teir. So I wont have in a couple of years :c
 
 	Object[][] emailAddresses = {
 		{"crllect@proton.me"},
 		{"crllect@tuta.io"},
-		{"4oexf238p@mozmail.com"} // I chekc this email once every decade. if you wanna contact, dont recommend this email
+		{"4oexf238p@mozmail.com"} // I check this email once every decade. if you wanna contact, dont recommend this email
 	};
 	String discorUsr = "@crllect";
 	String education = "selfTaught";
-	boolean iUseArchBTW = true;
+	boolean iUseArchBTW = true; // Im not an elitist, i swear
 }
 ```
 ---
