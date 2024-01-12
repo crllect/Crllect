@@ -4,7 +4,7 @@
 ```java
 while (isAlive) {
 	String name = "Crllect";
-	int age = 14;
+	int age = 15;
 	System.out.println("Hey, im crllect, and if I spent the same amount of time debugging as i did procrastinating,");
 	System.out.println("id be good at something. But i can\'t have my cake and eat it too.");
 	System.out.println("Anyways, I am mostly a new developer, and am trying to improve anyway I can.");
