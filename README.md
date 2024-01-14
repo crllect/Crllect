@@ -1,4 +1,4 @@
-# **__Wsg__**  <img src="https://komarev.com/ghpvc/?username=crllect&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
+# **__Hi :D__**  <img src="https://komarev.com/ghpvc/?username=crllect&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
 ---
 <!-- used colors: 24410c, e70052, 25252a, 141414, ce244c -->
 ```java
