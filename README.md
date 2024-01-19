@@ -27,8 +27,7 @@ while (isAlive) {
 
 	Object[][] emailAddresses = {
 		{"crllect@proton.me"},
-		{"crllect@tuta.io"},
-		{"4oexf238p@mozmail.com"} // I check this email once every decade. if you wanna contact, dont recommend this email
+		{"crllect@tuta.io"}
 	};
 	String discorUsr = "@crllect";
 	String education = "selfTaught";
