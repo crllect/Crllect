@@ -13,7 +13,7 @@ while (isAlive) {
 	System.out.println("suggest some projects for me to work on via email or my discord. Also,");
 	System.out.println("follow my github if you like any of my projects ;3");
 
-	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch", "endeavourOS", "blackArch"};
+	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch", "endeavourOS", "blackArch"}; // I dual boot windows 10 (without bloat) and arch with hyprland
 	String[] webBrowsers = {"firefox", "tor", "paleMoon", "brave"};
 	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway", "awesome"}  // sway && awesome are both technically window managers, but idrk
 	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
