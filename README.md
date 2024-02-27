@@ -61,6 +61,7 @@ while (isAlive) {
 ---
 
 <img height=460 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=dark&no-bg=true" />
+[Week Streaks](https://streak-stats.demolab.com?user=crllect&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
