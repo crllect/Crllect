@@ -1,47 +1,42 @@
-# **__Hi :D__**  <img src="https://komarev.com/ghpvc/?username=crllect&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" />
----
 <!-- used colors: 24410c, e70052, 25252a, 141414, ce244c -->
-```java
-while (isAlive) {
-	String name = "Crllect";
-	int age = 15;
-	System.out.println("Hey, im crllect, and if I spent the same amount of time debugging as i did procrastinating,");
-	System.out.println("id be good at something. But i can\'t have my cake and eat it too.");
-	System.out.println("Anyways, I am mostly a new developer, and am trying to improve anyway I can.");
-	System.out.println("I am working on getting my securty+ and network+ certificates as of writing");
-	System.out.println("this, which is pretty expensive, so I'm saving up to pay for that. Also please");
-	System.out.println("suggest some projects for me to work on via email or my discord. Also,");
-	System.out.println("follow my github if you like any of my projects ;3");
+<h1 align="center">
+	<strong>
+		Hi :D
+	</strong>
+	<img src="https://komarev.com/ghpvc/?username=crllect&color=10244c&style=for-the-badge&label=Bugs+In+My+Code" alt="crllect" /></h1>
+<h3 align="center">Web Developer</h3>
 
-	String[] operatingSystem = {"windows10", "kaliLinux", "nixos", "tails", "manjaro", "pureArch", "endeavourOS", "blackArch"}; // I dual boot windows 10 (without bloat) and arch with hyprland
-	String[] webBrowsers = {"firefox", "tor", "paleMoon", "brave"};
-	String[] desktopEnvironments = {"Xfce", "i3", "hyprland", "sway", "awesome"}  // sway && awesome are both technically window managers, but idrk
-	String[] browserExtensions = {"FirefoxRelay", "uBlockOrigin", "Violentmonkey", "NoScript"};
-	String[] interests = {"programming", "exploiting", "music", "cyberSecurity", "3Dart", "FOSS"};
+<br />
 
-	// learning (priority): React && next && vite;
-	// learning (low priority): C++ && Rust && node.js;
-	String[] programmingLanguages = {"Java", "Lua", "Python", "Markdown", "html", "scss", "typescript", "css", "javascript", "bash"}; // Though I know bash and js, and can write some simple scripts. Im no bash nor js wizard. lowk tryna improve on that
-	String[] cyberSecUtils = {"kali-suite", "blackArch-suite", "parrot-suite", "metasploit-framework"}; // even though the metasploit framework is of a different catagory. its so ridiculously big, that i think it warrents a spot.
-	String[] integratedDevelopementEnvironments = {"eclipse", "neoVim", "VSCodium", "pyCharm", "intelliJ", "VSCode", "zed"}; // intelliJ under student teir. So I wont have in a couple of years :c
+### I am a 15 year old web developer, I am always open to collaborate on any projects, so [contact me!](https://discord.com/users/713488984596021291)
 
-	Object[][] emailAddresses = {
-		{"crllect@proton.me"},
-		{"crllect@tuta.io"}
-	};
-	String discorUsr = "@crllect";
-	String education = "selfTaught";
-	boolean iUseArchBTW = true; // Im not an elitist, i swear
-}
-```
----
-![Crllect](http://readme-typing-svg.herokuapp.com/?font=Work+Sans&weight=600&duration=2000&pause=1000&color=e70052&background=00000000&center=true&vCenter=true&width=435&lines=Hello!;I+am+Crllect;Add+me+on+discord:;@crllect;I+am+a+kali+enjoyer;And+I+use+arch+btw;)
+- 🏫 I am a Freshman in High School
+- 👨‍💻 I Co-own the cybersecurity club at my school
+- 📙 I can speak English and Italian
+- 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ and _**Cybersecurity**_!
+- 🏞️ I live in MA
+
+# Languages, Libraries, and Frameworks I know
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,js,css,nodejs,py,scss,md,lua,ts,bash,react,nextjs,git,robloxstudio,npm,bun  " />
+  </a>
+</p>
+
+# Tools I use everyday
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,vim,discord,notion,vscode,vscodium,windows,linux,ubuntu,arch,blender,github,apple,eclipse,emacs,mastodon,kali,nix,pycharm,raspberrypi,mint,neovim,vercel,idea  " />
+  </a>
+</p>
 
 ---
 
-## I am currently working on [Crypher](https://github.com/crllect/Crypher). A an unblocked game and proxy site. I know, very original. If anybody wants to help add games or improve upon my spaghetti, add me on discord [@crllect](https://discord.com/users/713488984596021291).
----
-# Tangent aside, here are my stats:
+<p align="center">
+  <a href="https://lanyard.cnrad.dev">
+    <img height=350 src="https://lanyard.cnrad.dev/api/713488984596021291" />
+  </a>
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=230 align="left" src="https://github-readme-stats.vercel.app/api?username=crllect&title_color=e70052&text_color=e70052&icon_color=e70052&border_color=e70052&bg_color=130,141415,060607&border_radius=5)](https://github.com/anuraghazra/github-readme-stats" />
@@ -62,6 +57,8 @@ while (isAlive) {
 
 <img height=460 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=dark&no-bg=true" />
 
+---
+
 <img height=460 align="center" src="https://streak-stats.demolab.com?user=crllect&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
 
 ---
@@ -73,7 +70,3 @@ while (isAlive) {
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&redirect=true">
   <img height=260 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&cover_image=true&theme=novatorem&show_offline=true&background_color=25252a&interchange=false&bar_color=e70052&bar_color_cover=false" />
 </a>
-
----
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/713488984596021291)](https://discord.com/users/713488984596021291)
