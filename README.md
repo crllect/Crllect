@@ -19,14 +19,14 @@
 # Languages, Libraries, and Frameworks I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,js,css,nodejs,py,scss,md,lua,ts,bash,react,nextjs,git,robloxstudio,npm,bun  " />
+    <img src="https://skillicons.dev/icons?i=java,html,js,css,nodejs,py,scss,md,lua,ts,bash,react,nextjs,git,robloxstudio,npm,bun,pnpm,vite,tailwind  " />
   </a>
 </p>
 
 # Tools I use everyday
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vim,discord,notion,vscode,vscodium,windows,linux,ubuntu,arch,blender,github,apple,eclipse,emacs,mastodon,kali,nix,pycharm,raspberrypi,mint,neovim,vercel,idea  " />
+    <img src="https://skillicons.dev/icons?i=aws,vim,discord,notion,vscode,vscodium,windows,linux,ubuntu,arch,blender,github,apple,eclipse,emacs,mastodon,kali,nix,pycharm,raspberrypi,mint,neovim,vercel,idea,figma,replit  " />
   </a>
 </p>
 
