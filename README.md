@@ -19,7 +19,7 @@
 # Languages, Libraries, and Frameworks I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,js,css,nodejs,scss,md,lua,ts,bash,react,nextjs,vite,tailwind  " />
+    <img src="https://skillicons.dev/icons?i=java,html,js,css,nodejs,scss,md,lua,ts,bash,react,nextjs,vite,tailwind,remix  " />
   </a>
 </p>
 
