@@ -8,7 +8,9 @@
 
 <br />
 
-### I am a 15 year old developer, I am always open to collaborate on any projects, so [contact me!](https://discord.com/users/713488984596021291) <!-- In the future, maybe make a contact page with my emails and such -->
+### **I am a 15 year old web developer**
+
+#### I am always open to collaborate on any projects, so [contact me!](https://discord.com/users/713488984596021291) <!-- In the future, maybe make a contact page with my emails and such -->
 
 - 🏫 I am a Freshman in High School
 - 👨‍💻 I Co-own the cybersecurity club at my school
