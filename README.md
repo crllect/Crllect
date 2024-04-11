@@ -8,12 +8,12 @@
 
 <br />
 
-### I am a 15 year old web developer, I am always open to collaborate on any projects, so [contact me!](https://discord.com/users/713488984596021291) <!-- In the future, maybe make a contact page with my emails and such -->
+### I am a 15 year old developer, I am always open to collaborate on any projects, so [contact me!](https://discord.com/users/713488984596021291) <!-- In the future, maybe make a contact page with my emails and such -->
 
 - 🏫 I am a Freshman in High School
 - 👨‍💻 I Co-own the cybersecurity club at my school
 - 📙 I can speak English and Italian
-- 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ and _**Cybersecurity**_!
+- 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ and / or _**Cybersecurity**_!
 - 🏞️ I live in MA
 
 # Languages, Libraries, and Frameworks I know
