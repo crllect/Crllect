@@ -18,6 +18,7 @@
 - 📙 I can speak English and Italian
 - 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ and / or _**Cybersecurity**_!
 - 🏞️ I live in MA
+  
 
 # Languages, Libraries, and Frameworks I know
 <p align="center">
