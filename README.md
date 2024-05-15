@@ -28,7 +28,7 @@
 # Tools I use everyday
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vim,discord,notion,vscode,vscodium,windows,linux,ubuntu,arch,blender,github,apple,eclipse,emacs,mastodon,kali,nix,pycharm,raspberrypi,mint,neovim,vercel,idea,figma,replit,git,robloxstudio,npm,bun,pnpm  " />
+    <img src="https://skillicons.dev/icons?i=aws,vim,discord,notion,vscode,vscodium,windows,linux,ubuntu,arch,blender,github,apple,eclipse,mastodon,kali,nix,pycharm,raspberrypi,mint,neovim,vercel,idea,figma,replit,git,robloxstudio,npm,bun,pnpm  " />
   </a>
 </p>
 
