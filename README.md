@@ -73,6 +73,11 @@
 
 ---
 
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight)
+
+
+---
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=crllect&no-bg=true" />
 
 ---
