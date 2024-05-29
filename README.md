@@ -42,6 +42,22 @@
 
 ---
 
+<img height=340 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight" />
+
+---
+
+<img height=460 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=tokyonight&no-bg=true" />
+
+---
+
+<img height=460 align="center" src="https://streak-stats.demolab.com?user=crllect&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+
+---
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=crllect&no-bg=true" />
+
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img height=234 align="left" margin-top="-8px" src="https://github-readme-stats.vercel.app/api?username=crllect&title_color=e70052&text_color=e70052&icon_color=e70052&border_color=e70052&bg_color=130,141415,060607&border_radius=5)](https://github.com/anuraghazra/github-readme-stats" /></a>
 
@@ -62,23 +78,6 @@
 ---
 
 <br/>
-
----
-
-<img height=460 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=dark&no-bg=true" />
-
----
-
-<img height=460 align="center" src="https://streak-stats.demolab.com?user=crllect&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-
----
-
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight)
-
-
----
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=crllect&no-bg=true" />
 
 ---
 
