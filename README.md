@@ -20,67 +20,40 @@
 
 # Languages, Libraries, and Frameworks I know
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,css,html,java,js,lua,md,nodejs,nextjs,react,remix,scss,tailwind,ts,vite" />
-  </a>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=bash,css,html,java,js,lua,md,nodejs,nextjs,react,remix,scss,tailwind,ts,vite" />
+	</a>
 </p>
 
 # Tools I use everyday
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,arch,aws,blender,bun,discord,eclipse,figma,git,github,idea,kali,linux,mastodon,mint,neovim,nix,npm,notion,pnpm,pycharm,raspberrypi,replit,robloxstudio,ubuntu,vercel,vim,vscode,vscodium,windows" />
-  </a>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=apple,arch,aws,blender,bun,discord,eclipse,figma,git,github,idea,kali,linux,mastodon,mint,neovim,nix,npm,notion,pnpm,pycharm,raspberrypi,replit,robloxstudio,ubuntu,vercel,vim,vscode,vscodium,windows" />
+	</a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://lanyard.cnrad.dev">
-    <img height=350 src="https://lanyard.cnrad.dev/api/713488984596021291" />
-  </a>
-</p>
+<div align="center">
+	<img height=275 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight" />
+</div>
 
 ---
 
-<img height=340 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight" />
+<div align="center">
+	<img height=275 align=center src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=tokyonight&no-bg=true&hide_border=true" />
+</div>
 
 ---
 
-<img height=460 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=tokyonight&no-bg=true" />
+<div align="center">
+	<img height=275 align=center src="https://streak-stats.demolab.com?user=crllect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+</div>
 
 ---
 
-<img height=460 align="center" src="https://streak-stats.demolab.com?user=crllect&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-
----
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=crllect&no-bg=true" />
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height=234 align="left" margin-top="-8px" src="https://github-readme-stats.vercel.app/api?username=crllect&title_color=e70052&text_color=e70052&icon_color=e70052&border_color=e70052&bg_color=130,141415,060607&border_radius=5)](https://github.com/anuraghazra/github-readme-stats" /></a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=234 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crllect&title_color=e70052&text_color=e70052&icon_color=e70052&border_color=e70052&bg_color=130,141415,060607&border_radius=5)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-
-<br/>
-
----
-
-<br/>
-
----
-
-<br/>
-
----
-
-<br/>
-
----
-
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&redirect=true">
-  <img height=260 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&cover_image=true&theme=novatorem&show_offline=true&background_color=25252a&interchange=false&bar_color=e70052&bar_color_cover=false" />
-</a>
+<div align="center">
+	<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&redirect=true">
+		<img height=260 align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&cover_image=true&theme=novatorem&show_offline=true&background_color=25252a&interchange=false&bar_color=e70052&bar_color_cover=false" />
+	</a>
+</div>
