@@ -34,19 +34,19 @@
 
 ---
 <div align="center">
-	<img height=275 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight" />
+	<img width=800 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
-	<img height=275 align=center src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=tokyonight&no-bg=true&hide_border=true" />
+	<img width=800 align=center src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=tokyonight&no-bg=true&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-	<img height=275 align=center src="https://streak-stats.demolab.com?user=crllect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+	<img width=800 align=center src="https://streak-stats.demolab.com?user=crllect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
 </div>
 
 ---
