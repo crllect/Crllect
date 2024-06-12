@@ -82,10 +82,25 @@
 	</a>
 </div>
 
+<h1></h1>
+
+<div align="center">
+	<a
+		href="https://github.com/ryo-ma/github-profile-trophy"
+	>
+		<img
+			width="800"
+			align="center"
+			src="https://github-profile-trophy.vercel.app/?username=crllect&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
+		/>
+	</a>
+</div>
+
+
 <h2 align="center">
 	<div>
 		<img
-			src="https://komarev.com/ghpvc/?username=crllect&color=E70052&style=for-the-badge&label=Bugs+In+My+Code+(Profile+Views)"
+			src="https://komarev.com/ghpvc/?username=crllect&color=E7E7E7&style=flat&label=Bugs+In+My+Code+(Profile+Views)"
 			alt="Profile Views"
 		/>
 	</div>
