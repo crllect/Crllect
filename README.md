@@ -1,7 +1,8 @@
 <!-- used colors: 24410c, e70052, 25252a, 141414, ce244c -->
 
 <h1 align="center">
-	<strong> Hi :D </strong>
+	<strong> Crllect </strong>
+	<span> \krʌˈlɛkt\ </span>
 	<div>
 		<img
 			src="https://komarev.com/ghpvc/?username=crllect&color=E70052&style=for-the-badge&label=Bugs+In+My+Code+(Profile+Views)"
