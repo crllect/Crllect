@@ -2,7 +2,8 @@
 
 <h1 align="center">
 	<strong> Crllect </strong>
-	<span> \krʌˈlɛkt\ </span>
+	<br />
+	 <i> \krʌˈlɛkt\ </i>
 	<div>
 		<img
 			src="https://komarev.com/ghpvc/?username=crllect&color=E70052&style=for-the-badge&label=Bugs+In+My+Code+(Profile+Views)"
