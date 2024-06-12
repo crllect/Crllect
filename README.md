@@ -100,7 +100,7 @@
 <h2 align="center">
 	<div>
 		<img
-			src="https://komarev.com/ghpvc/?username=crllect&color=A7A7A7&style=flat&label=Bugs+In+My+Code+(Profile+Views)"
+			src="https://komarev.com/ghpvc/?username=crllect&color=979797&style=for-the-badge&label=Profile+Views"
 			alt="Profile Views"
 		/>
 	</div>
