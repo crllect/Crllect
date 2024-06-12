@@ -1,17 +1,15 @@
 <!-- used colors: 24410c, e70052, 25252a, 141414, ce244c -->
 
-<h1 align="center">
-	<strong> Crllect </strong>
-	<br />
-	 <i> \krʌˈlɛkt\ </i>
-	<div>
-		<img
-			src="https://komarev.com/ghpvc/?username=crllect&color=E70052&style=for-the-badge&label=Bugs+In+My+Code+(Profile+Views)"
-			alt="Profile Views"
-		/>
-	</div>
-</h1>
-<h3 align="center">Web Developer</h3>
+<div align="center">
+	<h1>
+		Crllect
+	</h1>
+	 <h3>
+		 <i> \krʌˈlɛkt\ </i>
+	 </h3>
+</div>
+
+<br />
 
 <br />
 
@@ -22,7 +20,6 @@
 - 📙 I can speak English and Italian
 - 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ _-and/or-_ _**Cybersecurity**_!
 - 🏞️ I live in MA
-  
 
 # Languages, Libraries, and Frameworks I know
 <p align="center">
@@ -42,7 +39,7 @@
 	</a>
 </p>
 
----
+<h1></h1>
 
 <div align="center">
 	<img
@@ -51,7 +48,7 @@
 	/>
 </div>
 
----
+<h1></h1>
 
 <div align="center">
 	<img
@@ -61,7 +58,7 @@
 	/>
 </div>
 
----
+<h1></h1>
 
 <div align="center">
 	<img
@@ -71,7 +68,7 @@
 	/>
 </div>
 
----
+<h1></h1>
 
 <div align="center">
 	<a
@@ -84,3 +81,13 @@
 		/>
 	</a>
 </div>
+
+<h2 align="center">
+	<div>
+		<img
+			src="https://komarev.com/ghpvc/?username=crllect&color=E70052&style=for-the-badge&label=Bugs+In+My+Code+(Profile+Views)"
+			alt="Profile Views"
+		/>
+	</div>
+</h2>
+<h3 align="center">Web Developer</h3>
