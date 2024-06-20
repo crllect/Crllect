@@ -5,7 +5,7 @@
 		Crllect
 	</h1>
 	 <h3>
-		 <i> \krʌˈlɛkt\ </i>
+		 <i> \krʌˈlɛkt\ </i> <- (CRUH - LLECT)
 	 </h3>
 </div>
 
