@@ -77,7 +77,7 @@
 		<img
 			width="800"
 			align="center"
-			src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&cover_image=true&theme=novatorem&show_offline=true&background_color=25252a&interchange=false&bar_color=e70052&bar_color_cover=false"
+			src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kn3172mlbiupmgnm6b5z0nz7v&cover_image=true&theme=novatorem&show_offline=true&background_color=25252a&interchange=false&bar_color=e70052&bar_color_cover=false"
 		/>
 	</a>
 </div>
