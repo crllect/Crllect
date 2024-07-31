@@ -21,20 +21,20 @@
 - 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ _-and/or-_ _**Cybersecurity**_!
 - 🏞️ I live in MA
 
-# Languages, Libraries, and Frameworks I know
+# Languages, Libraries, and Frameworks I Know
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=bash,css,html,java,js,lua,md,nodejs,nextjs,react,remix,scss,tailwind,ts,vite"
+			src="https://skillicons.dev/icons?i=bash,css,html,java,js,md,nodejs,nextjs,react,remix,scss,tailwind,ts,vite"
 		/>
 	</a>
 </p>
 
-# Tools I use everyday
+# Tools I Know
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=apple,arch,aws,blender,bun,discord,eclipse,figma,git,github,idea,kali,linux,mastodon,mint,neovim,nix,npm,notion,pnpm,pycharm,raspberrypi,replit,robloxstudio,ubuntu,vercel,vim,vscode,vscodium,windows"
+			src="https://skillicons.dev/icons?i=apple,arch,aws,blender,bun,discord,eclipse,figma,git,github,idea,kali,linux,mastodon,mint,neovim,npm,notion,pnpm,pycharm,raspberrypi,replit,robloxstudio,ubuntu,vercel,vim,vscode,vscodium,windows"
 		/>
 	</a>
 </p>
