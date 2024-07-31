@@ -20,9 +20,9 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: My Waka-time stats # optional
+          SECTION_NAME: My Waka-Time Stats! # optional
           BLOCKS: "#█" # optional
-          TIME_RANGE: last_30_days # optional
+          TIME_RANGE: all_time # optional
           LANG_COUNT: 7 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
