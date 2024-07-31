@@ -23,7 +23,7 @@ jobs:
           SECTION_NAME: My Waka-time stats # optional
           BLOCKS: "%█" # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 5 # optional
+          LANG_COUNT: 7 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
