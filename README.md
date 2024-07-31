@@ -71,6 +71,19 @@
 <h1></h1>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 June 2024 - To: 31 July 2024
+
+Total Time: 78 hrs 39 mins
+
+HTML           21 hrs          ███████%%%%%%%%%%%%%%%%%%   26.70 %
+JavaScript     16 hrs 57 mins  █████%%%%%%%%%%%%%%%%%%%%   21.55 %
+SCSS           11 hrs 13 mins  ████%%%%%%%%%%%%%%%%%%%%%   14.27 %
+Figma Design   7 hrs 24 mins   ██%%%%%%%%%%%%%%%%%%%%%%%   09.42 %
+CSS            5 hrs 57 mins   ██%%%%%%%%%%%%%%%%%%%%%%%   07.58 %
+```
+
 <!--END_SECTION:waka-->
 
 <h1></h1>
