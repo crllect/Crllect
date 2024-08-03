@@ -73,15 +73,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 01 August 2024
+From: 17 June 2024 - To: 02 August 2024
 
-Total Time: 88 hrs 39 mins
+Total Time: 100 hrs 35 mins
 
-HTML           23 hrs 24 mins  ███████##################   26.40 %
-JavaScript     21 hrs 50 mins  ██████###################   24.63 %
-SCSS           11 hrs 13 mins  ███######################   12.66 %
-Figma Design   7 hrs 24 mins   ██#######################   08.36 %
-Other          6 hrs 30 mins   ██#######################   07.35 %
+JavaScript     24 hrs 52 mins  ██████###################   24.74 %
+HTML           23 hrs 26 mins  ██████###################   23.30 %
+CSS            12 hrs 25 mins  ███######################   12.35 %
+SCSS           11 hrs 16 mins  ███######################   11.21 %
+Figma Design   9 hrs 21 mins   ██#######################   09.31 %
+Other          6 hrs 31 mins   ██#######################   06.49 %
 ```
 
 <!--END_SECTION:waka-->
