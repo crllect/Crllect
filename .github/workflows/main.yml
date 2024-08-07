@@ -1,3 +1,6 @@
               - name: Waka - Readme
                 uses: athul/waka-readme@v0.3.1
+                
+              - name: Metrics embed
+                uses: lowlighter/metrics@v3.34
             
