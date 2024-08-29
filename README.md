@@ -19,7 +19,7 @@
 - 👨‍💻 I Co-own the cybersecurity club at my school
 - 📙 I can speak English and Italian
 - 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ _-and/or-_ _**Cybersecurity**_!
-- 🏞️ I live in MA
+- 🏞️ I live in Cambridge, MA
 
 # Languages, Libraries, and Frameworks I Know
 <p align="center">
