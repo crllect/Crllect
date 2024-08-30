@@ -30,11 +30,11 @@
 	</a>
 </p>
 
-# Tools I Know
+# What I Use Everyday
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=apple,arch,aws,blender,bun,discord,eclipse,figma,git,github,idea,kali,linux,mastodon,mint,neovim,npm,notion,pnpm,pycharm,raspberrypi,replit,robloxstudio,ubuntu,vercel,vim,vscode,vscodium,windows"
+			src="https://skillicons.dev/icons?i=apple,blender,bun,discord,eclipse,figma,git,github,kali,linux,neovim,npm,notion,obsidian,pnpm,pycharm,raspberrypi,robloxstudio,vercel,vscode,windows"
 		/>
 	</a>
 </p>
