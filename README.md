@@ -20,12 +20,13 @@
 - 📙 I can speak English and Italian
 - 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ _-and/or-_ _**Cybersecurity**_!
 - 🏞️ I live in Cambridge, MA
+- 🧑‍🤝‍🧑 INFJ 2w3 so/sx
 
 # Languages, Libraries, and Frameworks I Know
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=bash,css,html,java,js,md,nodejs,nextjs,react,remix,scss,tailwind,ts,vite"
+			src="https://skillicons.dev/icons?i=astro,bash,css,html,java,js,md,nodejs,nextjs,react,remix,scss,tailwind,ts,vite"
 		/>
 	</a>
 </p>
