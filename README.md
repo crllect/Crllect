@@ -71,6 +71,8 @@
 
 <h1></h1>
 
+### WakaTime Last 7 Days
+
 <!--START_SECTION:waka-->
 
 ```txt
