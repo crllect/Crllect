@@ -16,7 +16,7 @@
 ### I am always open to collaborating on any projects, so [contact me!](https://discord.com/users/713488984596021291) <!-- In the future, maybe make a contact page with my emails and such -->
 
 - 🏫 I am a Sophomore in High School **(15 :o)**
-- 👨‍💻 I Co-own the cybersecurity club at my school
+- 👨‍💻 I am the editor and QA master of the cybersecurity club at my school
 - 📙 I can speak English and Italian
 - 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ _-and/or-_ _**Cybersecurity**_!
 - 🏞️ I live in Cambridge, MA
