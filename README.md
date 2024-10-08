@@ -20,7 +20,7 @@
 - 📙 I can speak English and Italian
 - 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ _-and/or-_ _**Cybersecurity**_!
 - 🏞️ I live in Cambridge, MA
-- 🧑‍🤝‍🧑 INFJ 2w3 so/sx
+- 🧑‍🤝‍🧑 INFJ-T 2w3 so/sx
 
 # Languages, Libraries, and Frameworks I Know
 <p align="center">
