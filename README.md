@@ -76,15 +76,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 26 October 2024 - To: 02 November 2024
 
-Total Time: 2 hrs 8 mins
+Total Time: 1 hr 38 mins
 
-Astro        1 hr 26 mins    █████████████████########   67.23 %
-CSS          20 mins         ████#####################   16.05 %
-JSON         15 mins         ███######################   12.20 %
-Markdown     4 mins          █########################   03.42 %
-JavaScript   1 min           #########################   01.11 %
+JavaScript   33 mins         █████████################   34.14 %
+Astro        31 mins         ████████#################   32.17 %
+JSON         16 mins         ████#####################   16.36 %
+CSS          12 mins         ███######################   12.31 %
+Markdown     4 mins          █########################   04.48 %
+HTML         0 secs          #########################   00.54 %
 ```
 
 <!--END_SECTION:waka-->
