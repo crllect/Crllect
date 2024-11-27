@@ -35,7 +35,7 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=apple,blender,bun,discord,eclipse,figma,git,github,linux,npm,obsidian,pnpm,pycharm,raspberrypi,robloxstudio,vercel,vscode,windows"
+			src="https://skillicons.dev/icons?i=apple,blender,bun,discord,figma,git,github,linux,npm,obsidian,pnpm,pycharm,raspberrypi,robloxstudio,vercel,vscode,windows"
 		/>
 	</a>
 </p>
