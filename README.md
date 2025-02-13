@@ -76,11 +76,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2025 - To: 11 February 2025
+From: 05 February 2025 - To: 12 February 2025
 
-Total Time: 0 secs
+Total Time: 50 mins
 
-No activity tracked
+JavaScript    45 mins         ██████████████████████###   89.64 %
+Astro         5 mins          ███######################   10.10 %
+Other         0 secs          #########################   00.11 %
 ```
 
 <!--END_SECTION:waka-->
