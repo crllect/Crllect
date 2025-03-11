@@ -76,20 +76,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2025 - To: 09 March 2025
+From: 03 March 2025 - To: 10 March 2025
 
-Total Time: 10 hrs 33 mins
+Total Time: 8 mins
 
-TypeScript   8 hrs 20 mins   ████████████████████#####   78.93 %
-Python       1 hr 30 mins    ████#####################   14.27 %
-Git Config   15 mins         █########################   02.47 %
-JavaScript   7 mins          #########################   01.26 %
-HTML         5 mins          #########################   00.87 %
-JSON         4 mins          #########################   00.72 %
-Markdown     4 mins          #########################   00.71 %
-Astro        3 mins          #########################   00.58 %
-Text         0 secs          #########################   00.13 %
-CSS          0 secs          #########################   00.07 %
+Markdown   4 mins          ██████████████###########   54.70 %
+Astro      3 mins          ███████████##############   45.30 %
 ```
 
 <!--END_SECTION:waka-->
