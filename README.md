@@ -76,12 +76,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2025 - To: 25 May 2025
+From: 19 May 2025 - To: 26 May 2025
 
-Total Time: 2 mins
+Total Time: 1 hr 22 mins
 
-CSS    2 mins          █████████████████████####   82.25 %
-HTML   0 secs          ████#####################   17.75 %
+HTML         43 mins         █████████████############   52.21 %
+JavaScript   22 mins         ███████##################   27.73 %
+CSS          16 mins         █████####################   20.06 %
 ```
 
 <!--END_SECTION:waka-->
