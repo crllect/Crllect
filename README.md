@@ -76,16 +76,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Total Time: 3 hrs 51 mins
+Total Time: 19 mins
 
-Astro        2 hrs 14 mins   ██████████████###########   57.97 %
-JSON         30 mins         ███######################   13.11 %
-TSConfig     24 mins         ███######################   10.47 %
-JavaScript   14 mins         ██#######################   06.41 %
-Git Config   10 mins         █########################   04.61 %
-Other        5 mins          █########################   02.25 %
+Git Config   10 mins         █████████████############   53.71 %
+Astro        6 mins          ████████#################   32.80 %
+Bash         2 mins          ███######################   13.49 %
 ```
 
 <!--END_SECTION:waka-->
