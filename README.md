@@ -76,13 +76,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Total Time: 19 mins
+Total Time: 0 secs
 
-Git Config   10 mins         █████████████############   53.71 %
-Astro        6 mins          ████████#################   32.80 %
-Bash         2 mins          ███######################   13.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
