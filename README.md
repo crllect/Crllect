@@ -76,11 +76,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 19 August 2025
+From: 13 August 2025 - To: 20 August 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 22 mins
 
-No activity tracked
+TypeScript   38 mins         ████████████#############   46.55 %
+Astro        33 mins         ██████████###############   40.94 %
+JSON         7 mins          ██#######################   09.31 %
+JavaScript   1 min           #########################   01.91 %
+Bash         0 secs          #########################   00.74 %
+TSConfig     0 secs          #########################   00.55 %
 ```
 
 <!--END_SECTION:waka-->
