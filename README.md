@@ -76,21 +76,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 35 hrs 19 mins
+Total Time: 42 hrs 47 mins
 
-Image (svg)   18 hrs 3 mins   █████████████############   51.15 %
-Astro         12 hrs 43 mins  █████████################   36.00 %
-TypeScript    1 hr 39 mins    █########################   04.70 %
-HTML          1 hr 29 mins    █########################   04.24 %
-CSS           38 mins         #########################   01.82 %
-JavaScript    9 mins          #########################   00.45 %
-Markdown      9 mins          #########################   00.43 %
-JSON          8 mins          #########################   00.38 %
-Git Config    7 mins          #########################   00.34 %
-YAML          6 mins          #########################   00.31 %
-Other         3 mins          #########################   00.17 %
+Image (svg)   26 hrs 53 mins  ████████████████#########   62.85 %
+Astro         11 hrs 26 mins  ███████##################   26.75 %
+TypeScript    1 hr 29 mins    █########################   03.49 %
+HTML          1 hr 26 mins    █########################   03.37 %
+CSS           38 mins         #########################   01.50 %
+Other         13 mins         #########################   00.53 %
 ```
 
 <!--END_SECTION:waka-->
