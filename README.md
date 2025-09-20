@@ -76,11 +76,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2025 - To: 18 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Total Time: 32 mins
+Total Time: 4 hrs 30 mins
 
-Other   32 mins         █████████████████████████   100.00 %
+Other        4 hrs 10 mins   ███████████████████████##   92.56 %
 ```
 
 <!--END_SECTION:waka-->
