@@ -76,11 +76,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 38 mins
 
-No activity tracked
+TypeScript   1 hr 44 mins    ████████████████#########   65.76 %
+Astro        32 mins         █████####################   20.36 %
+JSON         21 mins         ███######################   13.87 %
 ```
 
 <!--END_SECTION:waka-->
