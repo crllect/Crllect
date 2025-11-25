@@ -76,15 +76,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
-Total Time: 15 mins
+Total Time: 10 mins
 
-JSON         8 mins          █████████████############   53.51 %
-JavaScript   5 mins          █████████################   34.87 %
-HTML         1 min           ██#######################   06.65 %
-Markdown     0 secs          █########################   04.32 %
-Astro        0 secs          #########################   00.66 %
+JSON         8 mins          ████████████████████#####   79.95 %
+JavaScript   1 min           █████####################   19.06 %
+Astro        0 secs          #########################   00.98 %
 ```
 
 <!--END_SECTION:waka-->
