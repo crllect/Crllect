@@ -76,15 +76,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Total Time: 15 hrs 45 mins
+Total Time: 11 hrs 55 mins
 
-HTML         7 hrs           ███████████##############   44.43 %
-JSON         3 hrs 25 mins   █████####################   21.73 %
-Markdown     3 hrs 9 mins    █████####################   19.99 %
-TypeScript   1 hr 44 mins    ███######################   11.09 %
-Other        15 mins         #########################   01.66 %
+JSON         3 hrs 25 mins   ███████##################   28.73 %
+HTML         3 hrs 12 mins   ███████##################   26.89 %
+Markdown     3 hrs 9 mins    ███████##################   26.43 %
+TypeScript   1 hr 44 mins    ████#####################   14.66 %
+Other        13 mins         #########################   01.85 %
 ```
 
 <!--END_SECTION:waka-->
