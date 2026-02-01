@@ -76,18 +76,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2026 - To: 31 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-Total Time: 13 hrs 15 mins
+Total Time: 11 hrs 51 mins
 
-TypeScript   10 hrs 25 mins  ████████████████████#####   78.69 %
-HTML         1 hr 32 mins    ███######################   11.59 %
-Markdown     50 mins         ██#######################   06.38 %
-CSS          12 mins         #########################   01.61 %
-YAML         7 mins          #########################   00.98 %
-Git Config   2 mins          #########################   00.28 %
-JavaScript   1 min           #########################   00.15 %
-Other        1 min           #########################   00.14 %
+TypeScript   10 hrs 25 mins  ██████████████████████###   87.92 %
+Markdown     50 mins         ██#######################   07.13 %
+CSS          12 mins         #########################   01.80 %
+HTML         9 mins          #########################   01.29 %
+YAML         7 mins          #########################   01.09 %
+Git Config   2 mins          #########################   00.32 %
+JavaScript   1 min           #########################   00.17 %
+Other        1 min           #########################   00.16 %
 ```
 
 <!--END_SECTION:waka-->
