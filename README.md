@@ -76,12 +76,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-Total Time: 7 hrs 58 mins
+Total Time: 6 hrs 26 mins
 
-TypeScript   7 hrs 38 mins         ████████████████████████#   95.73 %
-Other        12 mins               █########################   02.65 %
+TypeScript   6 hrs 20 mins         █████████████████████████   98.60 %
+HTML         4 mins                #########################   01.21 %
+JSON         0 secs                #########################   00.16 %
+CSS          0 secs                #########################   00.03 %
+JavaScript   0 secs                #########################   00.01 %
 ```
 
 <!--END_SECTION:waka-->
