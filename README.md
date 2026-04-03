@@ -18,7 +18,7 @@
 - 🏫 I am a Junior in High School **(17 :o)**
 - 👨‍💻 Co-owner of [Night Network](https://github.com/Night-N3twork)
 - 📙 I can speak English and Italian
-- 🔭 I dont know where I want to be, but I want to major in _**Computer Science**_ _-and/or-_ _**Cybersecurity**_!
+- 🔭 I want to do Forensic Psychiatry
 - 🏞️ I live in Cambridge, MA
 - 🧑‍🤝‍🧑 INFJ-T 2w3 so/sx
 
@@ -35,7 +35,7 @@
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img
-			src="https://skillicons.dev/icons?i=apple,blender,bun,discord,figma,git,github,linux,npm,obsidian,pnpm,pycharm,raspberrypi,robloxstudio,vercel,vscode,windows"
+			src="https://skillicons.dev/icons?i=apple,blender,bun,figma,git,github,gitlab,linux,npm,obsidian,pnpm,vercel,vscode,windows"
 		/>
 	</a>
 </p>
@@ -94,7 +94,7 @@ No activity tracked
 		<img
 			width="800"
 			align="center"
-			src="https://github-profile-trophy.vercel.app/?username=crllect&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
+			src="https://trophy.ryglcloud.net/?username=crllect&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
 		/>
 	</a>
 </div>
