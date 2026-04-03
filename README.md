@@ -18,7 +18,7 @@
 - 🏫 I am a Junior in High School **(17 :o)**
 - 👨‍💻 Co-owner of [Night Network](https://github.com/Night-N3twork)
 - 📙 I can speak English and Italian
-- 🔭 I want to do Forensic Psychiatry
+- 🔭 I want to go into Forensic Psychiatry
 - 🏞️ I live in Cambridge, MA
 - 🧑‍🤝‍🧑 INFJ-T 2w3 so/sx
 
