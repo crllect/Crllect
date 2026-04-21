@@ -76,12 +76,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Total Time: 11 hrs 11 mins
+Total Time: 14 hrs 33 mins
 
-TypeScript   6 hrs 35 mins         ███████████████##########   58.83 %
-Other        3 hrs 39 mins         ████████#################   32.64 %
+TypeScript   8 hrs 50 mins         ███████████████##########   60.78 %
+Other        4 hrs 13 mins         ███████##################   28.99 %
 ```
 
 <!--END_SECTION:waka-->
