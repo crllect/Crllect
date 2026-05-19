@@ -76,13 +76,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2026 - To: 17 May 2026
+From: 11 May 2026 - To: 18 May 2026
 
-Total Time: 8 hrs 53 mins
+Total Time: 10 hrs 48 mins
 
-TypeScript    6 hrs 37 mins         ███████████████████######   74.54 %
-CSS           1 hr 19 mins          ████#####################   14.84 %
-Other         20 mins               █########################   03.89 %
+TypeScript    6 hrs 37 mins         ███████████████##########   61.33 %
+Image (svg)   2 hrs 8 mins          █████####################   19.80 %
+CSS           1 hr 19 mins          ███######################   12.21 %
+Other         20 mins               █########################   03.20 %
 ```
 
 <!--END_SECTION:waka-->
