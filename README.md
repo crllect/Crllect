@@ -76,19 +76,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2026 - To: 22 May 2026
+From: 16 May 2026 - To: 23 May 2026
 
-Total Time: 9 hrs 24 mins
+Total Time: 5 hrs 12 mins
 
-TypeScript    5 hrs 43 mins         ███████████████##########   60.94 %
-Image (svg)   2 hrs 6 mins          ██████###################   22.49 %
-CSS           1 hr 11 mins          ███######################   12.59 %
-JSON          8 mins                #########################   01.57 %
-Markdown      6 mins                #########################   01.18 %
-TSConfig      3 mins                #########################   00.61 %
-JavaScript    2 mins                #########################   00.48 %
-YAML          0 secs                #########################   00.05 %
-Other         0 secs                #########################   00.05 %
+TypeScript    2 hrs 59 mins         ██████████████###########   57.41 %
+Image (svg)   1 hr 54 mins          █████████################   36.72 %
+Markdown      6 mins                █########################   02.14 %
+CSS           4 mins                #########################   01.30 %
+TSConfig      3 mins                #########################   01.10 %
+JSON          2 mins                #########################   00.71 %
+JavaScript    1 min                 #########################   00.39 %
+Other         0 secs                #########################   00.09 %
 ```
 
 <!--END_SECTION:waka-->
