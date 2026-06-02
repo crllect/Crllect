@@ -76,13 +76,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2026 - To: 31 May 2026
+From: 25 May 2026 - To: 01 June 2026
 
-Total Time: 2 hrs 59 mins
+Total Time: 1 hr 20 mins
 
-TypeScript   2 hrs 34 mins         ██████████████████████###   86.06 %
-Markdown     20 mins               ███######################   11.24 %
-Other        4 mins                █########################   02.70 %
+TypeScript   55 mins               █████████████████########   68.78 %
+Markdown     20 mins               ██████###################   25.18 %
+Other        4 mins                ██#######################   06.04 %
 ```
 
 <!--END_SECTION:waka-->
