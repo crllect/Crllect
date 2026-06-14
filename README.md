@@ -76,17 +76,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2026 - To: 12 June 2026
+From: 06 June 2026 - To: 13 June 2026
 
-Total Time: 6 hrs 52 mins
+Total Time: 7 hrs 13 mins
 
-Image (svg)                4 hrs 21 mins         ████████████████#########   63.41 %
-TypeScript                 1 hr 43 mins          ██████###################   25.02 %
-JSON                       41 mins               ███######################   10.07 %
-Markdown                   5 mins                #########################   01.28 %
-Git Config                 0 secs                #########################   00.12 %
+Image (svg)                4 hrs 42 mins         ████████████████#########   65.23 %
+TypeScript                 1 hr 43 mins          ██████###################   23.77 %
+JSON                       41 mins               ██#######################   09.57 %
+Markdown                   5 mins                #########################   01.22 %
+Git Config                 0 secs                #########################   00.11 %
 Nginx configuration file   0 secs                #########################   00.05 %
-TSConfig                   0 secs                #########################   00.04 %
+TSConfig                   0 secs                #########################   00.03 %
 HTML                       0 secs                #########################   00.02 %
 ```
 
