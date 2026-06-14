@@ -13,7 +13,7 @@
 
 <br />
 
-### I am always open to collaborating on any projects, so [contact me!](https://discord.com/users/713488984596021291) <!-- In the future, maybe make a contact page with my emails and such -->
+### I am always open to collaborating on any projects, so [contact me!](https://crllect.dev/contact/)
 
 - 🏫 I am a Junior in High School **(17 :o)**
 - 👨‍💻 Co-owner of [Night Network](https://github.com/Night-N3twork)
