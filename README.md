@@ -76,16 +76,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2026 - To: 17 June 2026
+From: 11 June 2026 - To: 18 June 2026
 
-Total Time: 16 hrs 23 mins
+Total Time: 13 hrs 52 mins
 
-Astro                      5 hrs 9 mins          ████████#################   31.43 %
-JSON                       4 hrs 2 mins          ██████###################   24.63 %
-TypeScript                 2 hrs 25 mins         ████#####################   14.77 %
-Image (svg)                2 hrs 14 mins         ███######################   13.63 %
-Markdown                   57 mins               █########################   05.88 %
-Other                      40 mins               █########################   04.09 %
+Astro         5 hrs 9 mins          █████████################   37.13 %
+JSON          3 hrs 44 mins         ███████##################   26.96 %
+Image (svg)   2 hrs 14 mins         ████#####################   16.10 %
+TypeScript    53 mins               ██#######################   06.46 %
+Other         40 mins               █########################   04.83 %
 ```
 
 <!--END_SECTION:waka-->
