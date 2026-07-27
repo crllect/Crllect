@@ -76,15 +76,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Total Time: 22 hrs 57 mins
+Total Time: 8 hrs 28 mins
 
-TypeScript   6 hrs 43 mins         ███████##################   29.26 %
-Markdown     4 hrs 54 mins         █████####################   21.35 %
-SCSS         4 hrs 11 mins         █████####################   18.26 %
-JavaScript   2 hrs 22 mins         ███######################   10.37 %
-Other        2 hrs 12 mins         ██#######################   09.65 %
+TypeScript    4 hrs 18 mins         █████████████############   50.80 %
+Markdown      1 hr 45 mins          █████####################   20.69 %
+SCSS          1 hr 8 mins           ███######################   13.55 %
+JavaScript    25 mins               █########################   04.93 %
+Other         21 mins               █########################   04.17 %
 ```
 
 <!--END_SECTION:waka-->
