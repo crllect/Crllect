@@ -15,8 +15,8 @@
 
 ### I am always open to collaborating on any projects, so [contact me!](https://crllect.dev/contact/)
 
-- 🏫 I am a Junior in High School **(17 :o)**
-- 👨‍💻 Co-owner of [Night Network](https://github.com/Night-N3twork)
+- 🏫 I am a Senior in High School **(17 :o)**
+- 👨‍💻 Co-owner of [Night Network](https://night-network.org), Intern at [Audible](https://www.audible.com/)
 - 📙 I can speak English and Italian
 - 🔭 I want to go into Forensic Psychiatry
 - 🏞️ I live in Cambridge, MA
