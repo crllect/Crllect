@@ -15,12 +15,12 @@
 
 ### I am always open to collaborating on any projects, so [contact me!](https://crllect.dev/contact/)
 
-- 🏫 I am a Senior in High School **(17 :o)**
-- 👨‍💻 Co-owner of [Night Network](https://night-network.org), Intern at [Audible](https://www.audible.com/)
-- 📙 I can speak English and Italian
-- 🔭 I want to go into Forensic Psychiatry
-- 🏞️ I live in Cambridge, MA
-- 🧑‍🤝‍🧑 INFJ-T 2w3 so/sx
+- I am a Senior in High School **(17 :o)**
+- Co-owner of [Night Network](https://night-network.org), Intern at [Audible](https://www.audible.com/)
+- I can speak English and Italian
+- I want to go into Forensic Psychiatry
+- I live in Cambridge, MA
+- INFJ-T 2w3 so/sx
 
 # Languages, Libraries, and Frameworks I Know
 <p align="center">
