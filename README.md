@@ -20,7 +20,7 @@
 - I can speak English and Italian
 - I want to go into Forensic Psychiatry
 - I live in Cambridge, MA
-- INFJ-T 2w3 so/sx
+- ENFJ-T 2w3 so/sx
 
 # Languages, Libraries, and Frameworks I Know
 <p align="center">
