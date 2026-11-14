@@ -46,7 +46,7 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@82c2ef5144cfd567e9095c0e7e7a6d2948a1de52
         with:
           token: ${{ secrets.PROFILE_TOKEN || github.token }}
-          options: user=${{ github.repository_owner }}&theme=tokyonight&background=00000000&hide_border=true
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true
           path: profile/streak.svg
 
       - name: Generate weekly streak
