@@ -45,7 +45,8 @@
 <div align="center">
 	<img
 		width="800"
-		src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crllect&theme=tokyonight"
+		src="./profile/profile-details.svg"
+		alt="GitHub contribution summary"
 	/>
 </div>
 
@@ -55,7 +56,8 @@
 	<img
 		width="800"
 		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=crllect&theme=tokyonight&no-bg=true&hide_border=true"
+		src="./profile/streak.svg"
+		alt="Daily contribution streak"
 	/>
 </div>
 
@@ -65,7 +67,8 @@
 	<img
 		width="800"
 		align="center"
-		src="https://streak-stats.demolab.com?user=crllect&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+		src="./profile/streak-weekly.svg"
+		alt="Weekly contribution streak"
 	/>
 </div>
 
@@ -94,15 +97,16 @@ No activity tracked
 		<img
 			width="800"
 			align="center"
-			src="https://trophy.ryglcloud.net/?username=crllect&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
+			src="./profile/trophies.svg"
+			alt="GitHub profile trophies"
 		/>
 	</a>
 </div>
 
 <h1></h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crllect&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&PAT_1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crllect&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="./profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
 
 

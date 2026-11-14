@@ -1,0 +1,103 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "23 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-cards.yml
+      - .github/scripts/validate-profile-cards.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    # Manual runs from other branches must not publish to the profile.
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+
+      - name: Generate contribution summary
+        uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1 # release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
+          AUTO_PUSH: false
+
+      - name: Collect contribution summary
+        run: |
+          mkdir -p profile
+          cp profile-summary-card-output/tokyonight/0-profile-details.svg profile/profile-details.svg
+
+      - name: Generate daily streak
+        uses: DenverCoder1/github-readme-streak-stats@82c2ef5144cfd567e9095c0e7e7a6d2948a1de52
+        with:
+          token: ${{ secrets.PROFILE_TOKEN || github.token }}
+          options: user=${{ github.repository_owner }}&theme=tokyonight&background=00000000&hide_border=true
+          path: profile/streak.svg
+
+      - name: Generate weekly streak
+        uses: DenverCoder1/github-readme-streak-stats@82c2ef5144cfd567e9095c0e7e7a6d2948a1de52
+        with:
+          token: ${{ secrets.PROFILE_TOKEN || github.token }}
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly
+          path: profile/streak-weekly.svg
+
+      - name: Generate trophies
+        uses: soulteary/github-profile-trophy-action@125fa2a58eb7feac88ee09c9fd4acad45c7c6987 # v1.3.0
+        with:
+          token: ${{ secrets.PROFILE_TOKEN || github.token }}
+          version: v1.1.0
+          options: username=${{ github.repository_owner }}&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true
+          path: profile/trophies.svg
+
+      - name: Generate stats
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          token: ${{ secrets.PROFILE_TOKEN || github.token }}
+          card: stats
+          core_version: "2.1.3"
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true
+          path: profile/stats.svg
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          token: ${{ secrets.PROFILE_TOKEN || github.token }}
+          card: top-langs
+          core_version: "2.1.3"
+          fail_on_error: true
+          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+
+      - name: Validate cards
+        run: python3 .github/scripts/validate-profile-cards.py
+
+      # Only publish a complete, valid set. A failure leaves the previous
+      # committed SVGs available to everyone viewing the profile.
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update profile cards"
+          # WakaTime may have updated README.md while these cards rendered.
+          git pull --rebase origin main
+          git push origin HEAD:main
